@@ -14,3 +14,5 @@ O código é sobre um desafio de programação em Java para ordenar uma lista de
 
 ### Exemplo:
 Entrada:
+![imagens/entrada1.png](imagens/entrada1.png)
+
