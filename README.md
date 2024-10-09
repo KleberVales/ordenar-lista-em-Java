@@ -13,6 +13,6 @@ O código é sobre um desafio de programação em Java para ordenar uma lista de
 - Depois de aplicar a ordenação, o programa deve imprimir o nome de cada estudante em uma nova linha.
 
 ### Exemplo:
-- Entrada:
+Entrada:\
 ![imagens/entrada1.png](imagens/entrada1.png)
 
